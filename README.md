@@ -1,8 +1,11 @@
 # kmeans-clustering
 Perform K-Means Clustering and plot
 
+![](3_kmeans_plot_4.png)
+
 ## To run:
 From the root directory:
+
 `python Kmeans.py`
 
 It will ask you for the number of clusters you want to fit to.
